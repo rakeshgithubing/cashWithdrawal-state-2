@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.button {
+  height: 40px;
+  width: 160px;
+  background-color: #382f5a;
+  color: #c4c4c4;
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: bold;
+  border: 1px solid #c4c4c4;
+  border-radius: 3px;
+  outline: none;
+  cursor: pointer;
+}
